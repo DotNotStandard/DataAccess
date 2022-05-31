@@ -4,6 +4,7 @@
  * See the LICENSE file in the root of the repo for licensing details.
  * 
  */
+
 using System.Transactions;
 
 namespace DotNotStandard.DataAccess.Core

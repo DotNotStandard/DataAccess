@@ -4,6 +4,7 @@
  * See the LICENSE file in the root of the repo for licensing details.
  * 
  */
+
 using DotNotStandard.DataAccess.Core;
 using DotNotStandard.DataAccess.SqlServer;
 using Microsoft.Extensions.DependencyInjection.Extensions;
