@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNotStandard.DataAccess.Core", "Core\DotNotStandard.DataAccess.Core.csproj", "{3BD0F426-9C34-49D8-8F00-528A2B9B050C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNotStandard.DataAccess.SqlServer", "SqlServer\DotNotStandard.DataAccess.SqlServer.csproj", "{91BA3453-950E-4905-A0B9-1630BA5696F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD0F426-9C34-49D8-8F00-528A2B9B050C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD0F426-9C34-49D8-8F00-528A2B9B050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD0F426-9C34-49D8-8F00-528A2B9B050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD0F426-9C34-49D8-8F00-528A2B9B050C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BA3453-950E-4905-A0B9-1630BA5696F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BA3453-950E-4905-A0B9-1630BA5696F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BA3453-950E-4905-A0B9-1630BA5696F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BA3453-950E-4905-A0B9-1630BA5696F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE716B4-A246-44D2-ADC5-84F6C2A6C1FB}
+	EndGlobalSection
+EndGlobal
